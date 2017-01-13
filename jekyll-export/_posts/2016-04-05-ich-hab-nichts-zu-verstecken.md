@@ -1,0 +1,24 @@
+---
+id: 106
+title: Ich hab nichts zu verstecken
+date: 2016-04-05T02:45:48+00:00
+author: theaamanda
+layout: post
+guid: http://losgeloestundeingefaedelt.de/?p=106
+permalink: /ich-hab-nichts-zu-verstecken/
+categories:
+  - Privatsphäre
+---
+So oder so ähnlich lautet meist die Reaktion, wenn es um digitale Privatsphäre und Datenschutz geht. Dass es mitunter um etwas ganz anderes geht, darüber möchte ich heute schreiben und Hinweise geben wie man in Zukunft nicht mehr alles über den digitalen Jahrmarkt ins Megafon schreit &#8211; mit der Illusion, dass es keiner oder nur die angeschauten Personen hören.
+
+Es kam mal wieder ein Whisleblower-Skandal ans Licht, viel größer als [Edward Snowden](https://de.wikipedia.org/wiki/Edward_Snowden) wird gesagt und [Panama-Papers](http://panamapapers.sueddeutsche.de) genannt. Nun liegen alle Steuergeheimnisse blank. Datenschutz? Pustekuchen möge man meinen. Es ist allerdings zu beachten, dass Datenschutz vor allem die Person hinter den Daten umfassen und den Schutz der Person gewährleisten soll. So begründet auch [Apple den Streit mit dem FBI](http://www.faz.net/aktuell/feuilleton/medien/apples-streit-gegen-das-fbi-ist-richtungsweisend-14099759.html), wo es darum ging das Telefon eines Terrorverdächtigen zu entschlüsseln. Ob das nur schlaue Werbung oder tatsächliches ernsthaftes Interesse ist, bleibt fraglich.
+
+So ein Terrorverdächtiger hat aber vermutlich auch genügend Dreck am Stecken &#8211; nicht zu vergleichen mit dir und mir, möge man meinen. Doch entscheidend ist Datenschutz sowie verschlüsselte und sichere Kommunikation auch für Aktive die scheinbar für das Gute arbeiten, aber das für mächtige Unternehmen viel Verlust bedeutet, wo wir beispielsweise wieder bei Edward Snowden wären. Und wie fällt man am wenigsten auf? Unter einen von Vielen! Ein Grund wenige Spuren zu hinterlassen, denn eine sauber verwischte Spur weist noch immer den Weg. Für den Widerstand bedarf es vieler.
+
+Aber doch scheinbar zu idealistisch und zu weit entfernt, dachte ich &#8211; bis heute! Ehrenamtliche retten deutschlandweit im Rahmen von [foodsharing](https://foodsharing.de) Unmengen an Lebensmitteln die andernfalls im Müll gelandet wären. Darauß haben sich Fair-Teiler ergeben, rundum die Stadt [öffentlich zugängliche Kühlschränke](http://www.tagesspiegel.de/berlin/bezirke/kreuzberg/fairteiler-in-berlin-24-stunden-kuehlschraenke-fuer-jedermann/10888332.html), die nun leider auch die Lebensmittelämter auf den Plan gerufen haben. [Hier](https://weact.campact.de/petitions/rette-die-foodsharing-fair-teiler-gegen-staatlich-verordnete-lebensmittelverschwendung) kannst du übrigens dafür unterschreiben die Fair-Teiler zu retten! Aktuell scheint die einzige Lösung die Fair-Teiler mit Zahlenschlössern zu versehen und so kam die Frage auf wie man wohl die Zahlenabfolgen, ohne schriftlichen Nachweis, kommuniziert sodass es möglichst viele erreicht, aber nicht bei den Lebensmittelämtern landet. So schnell wendet sich das Blatt von Gut und Böse.
+
+Wir machen es uns bequem. Bequem mit Google, WhatsApp & Co. Bequem mit dem Einkauf beim nächsten Discounter. Bequem damit, nicht darüber nachzudenken bei wem am Ende eigentlich das Geld landet und wie viel Macht das bedeutet. Bequem mit der Möglichkeit unser beschäftigtes Leben mit kostenlosen Diensten von Google, WhatsApp & Co zu optimieren, ohne uns darüber bewusst zu sein, dass wir doch schon längst dafür bezahlen &#8211; mit unseren Daten.<img class="size-full wp-image-115 alignright" src="http://losgeloestundeingefaedelt.de/wordpress/wp-content/uploads/2016/04/476672464_a07f067361_m.jpg" alt="" width="169" height="240" />
+
+Alles was du sagst kann gegen dich verwendet werden und nun überleg was du schreibst, schickst, in das Mikrofon deines Handy sprichst. Würdest du damit Poster bedrucken wollen? Dann mach aus deinen Postkarten einen Brief indem du Verschlüsselung verwendest! Du wirst nicht mal damit allein gelassen, sondern kannst zu [Cyptoparties](https://www.cryptoparty.in/index) gehen und beispielsweise lernen wie du deine [E-Mails mit OpenPGP verschlüsselst](https://www.cryptoparty.in/learn/how-tos#use_a_mailclient_with_gpg_support). Als Alternativ-Messenger kann ich [Telegram](https://telegram.org) ans Herz legen, die sich schon an mehr menschlichen Werten orientieren.
+
+WhatsApp und Google zu entsagen, ist schon eine andere Nummer und es bang mir bereits davor, wenn ich WhatsApp endgültig wieder von meinen Telefon verbanne, da ich mich damit scheinbar selbst ausgrenze. Ich möchte meine sozialen Kontakte allerdings nicht von gierigen und milliarden schweren Großkonzernen abhängig machen und ich möchte in Verbindung sein, nicht nur [durchs meditieren mit mir selbst](http://losgeloestundeingefaedelt.de/meditation-erlernen/), sondern auch mit meinen Daten. In diesem Fall also nicht losgelöst&eingefädelt, sonern losgelöst&eingeloggt.
